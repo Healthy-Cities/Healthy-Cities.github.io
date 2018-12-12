@@ -1,0 +1,19 @@
+.section-spacer {
+    height: 1px;
+}
+
+.background {
+    background-image: url('../assets/city.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.omg {
+    height: 300px;
+    width: 300px;
+}
+
+.joe:hover {
+    color: gray;
+}
